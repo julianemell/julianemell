@@ -2,6 +2,5 @@
 
 <p align='center'>Hi 👋 i'm julia.</p>
 <p align='center'>studying to be a front end developer!</p>
-<p align='center'>i graduate in june 2023.</p>
-<p align='center'>i'm currently working on my own website!</p>
+<p align='center'>i graduate in may 2023.</p>
 
