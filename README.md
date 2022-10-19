@@ -4,7 +4,7 @@ name: Julia
 located_in: Malmö, Sweden
 education:
   {
-    Medieinsitutet, Malmö: {
+    Medieinstitutet, Malmö: {
       programme: "Front End Developer",
       start_date: 13-09-2021,
       end_date: 19-05-2023,
