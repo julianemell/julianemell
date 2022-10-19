@@ -1,29 +1,30 @@
 
 ```yaml
-name: Julia
-located_in: Malmö, Sweden
-education:
-  {
-    Medieinstitutet, Malmö: {
-      programme: "Front End Developer",
-      start_date: 13-09-2021,
-      end_date: 19-05-2023,
-    }
-  }
+{
+"name": "Julia"
+"located_in": "Malmö, Sweden"
 
-fields_of_interests:
+"education": {
+      "programme": "Front End Developer",
+      "place": "Medieinstitutet, Malmö",
+      "start_date": 13-09-2021,
+      "end_date": 19-05-2023,
+    }
+}
+
+"fields_of_interests":
   [
     "Web Development",
     "UI/UX",
   ]
   
-currently_learning:
+"currently_learning":
   [
     "Drupal",
     "Twig",
     "Sass",
   ]
-
+}
 ```
 
 <div align='center'>
@@ -40,6 +41,8 @@ currently_learning:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain-wordmark.svg" alt="drupal" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" alt="jira" width="45" height="45" />
+
 
   </p>
 </div>
