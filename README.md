@@ -20,6 +20,8 @@
   
 "currently_learning":
   [
+    "Sanity",
+    "Next.js",
     "Drupal",
     "Twig",
     "Sass",
